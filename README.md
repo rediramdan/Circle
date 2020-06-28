@@ -58,7 +58,6 @@ const firebaseConfig = {
       <td align="center">
         <a href="https://github.com/rediramdan/">
           <img width="80" style="border-radius:50%" src="https://assets.codepen.io/4083995/internal/avatars/users/default.png?format=auto&height=80&version=1593313228&width=80">
-          <sub><b>REDI</b></sub>
         </a>
       </td>
     </tr>
