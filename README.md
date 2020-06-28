@@ -52,7 +52,7 @@ const firebaseConfig = {
 7. done
 ## Contributors
 <p align="center">
-  <img width="100" style="border-radius:50%" src="https://media-exp1.licdn.com/dms/image/C5603AQGqGm55sBcgpA/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=lPhYL2n2Wpxdebuc2H02aohI-xYLc9JiN843nUvJ_B4">
+  <img width="100" style="border-radius:50%" src="https://assets.codepen.io/4083995/internal/avatars/users/default.png?format=auto&height=80&version=1593313228&width=80">
 </p>
 <p align="center" style="margin-top:-20px">
   <b>REDI</b>
