@@ -50,4 +50,11 @@ const firebaseConfig = {
   ```
 6. Type `yarn run-android` for run this app
 7. done
+## Contributors
+<p align="center">
+  <img width="100" src="https://media-exp1.licdn.com/dms/image/C5603AQGqGm55sBcgpA/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=lPhYL2n2Wpxdebuc2H02aohI-xYLc9JiN843nUvJ_B4">
+</p>
+<p align="center">
+  REDI
+</p>
 
