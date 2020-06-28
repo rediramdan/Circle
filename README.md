@@ -13,6 +13,11 @@
 * Monitor your friend's location in realtime
 * Chat with your friends
 
+## Release APK
+<a href="">
+  <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
+</a>
+
 ## Requirements
 * [`yarn`](https://yarnpkg.com/getting-started/install)
 * [`react-native`](https://facebook.github.io/react-native/docs/getting-started)
@@ -31,3 +36,16 @@ const firebaseConfig = {
   measurementId: "YOUR_measurementId"
 };
 ```
+## Usage for development
+1. Open your terminal or command prompt
+2. Type `git clone https://github.com/falihnaufal17/Hit-Hit-Baam-Game.git`
+3. Open the folder and type `yarn install` for install dependencies
+4. Add your realtime database config to `./src/utils/configFirebase.js`
+5. Add your goole maps API Key on `AndroidManifest.xml`
+#### Example
+  ```
+  <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="YOUR_API_KEY"/>
+  ```
+5. Type `yarn run-android` for run this app
