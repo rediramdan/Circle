@@ -38,14 +38,16 @@ const firebaseConfig = {
 ```
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/falihnaufal17/Hit-Hit-Baam-Game.git`
+2. Type `git clone https://github.com/rediramdan/Circle.git`
 3. Open the folder and type `yarn install` for install dependencies
 4. Add your realtime database config to `./src/utils/configFirebase.js`
 5. Add your goole maps API Key on `AndroidManifest.xml`
-#### Example
+##### Example
   ```
   <meta-data
         android:name="com.google.android.geo.API_KEY"
         android:value="YOUR_API_KEY"/>
   ```
-5. Type `yarn run-android` for run this app
+6. Type `yarn run-android` for run this app
+7. done
+
