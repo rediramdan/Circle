@@ -5,6 +5,16 @@
   Built with React Native.
 </p>
 
+## Table of Contents
+
+- [What is Circle ?](#what-is-circle)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Release](#release-apk)
+- [Requirements](#requirements)
+- [Usage](#usage-for-development)
+- [Contributors](#contributors)
+
 ## What is Circle ?
 <b>Circle</b> is an application to share messages and locations in realtime, in Circle we can send messages to friends while monitoring their location.
 
