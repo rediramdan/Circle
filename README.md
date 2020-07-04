@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-- [What is Circle ?](#what-is-circle)
+- [What is Circle ?](#what-is-circle-?)
 - [Features](#features)
 - [Screenshot](#screenshot)
 - [Release](#release-apk)
